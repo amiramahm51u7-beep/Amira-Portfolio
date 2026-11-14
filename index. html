@@ -1,0 +1,215 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Amira Personal Profile</title>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+
+        body {
+            background-color: #eaf2f8;
+            font-family: Arial, sans-serif;
+            color: #1b2631;
+        }
+
+        h1 {
+            color: white;
+            background-color: #172b4d;
+            text-align: center;
+            padding: 25px;
+        }
+
+        h2 {
+            color: #087e9b;
+        }
+
+        section {
+            background-color: white;
+            padding: 15px;
+            margin: 15px;
+        }
+
+        img {
+            width: 300px;
+            max-width: 100%;
+            height: auto;
+        }
+
+        a {
+            color: blue;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- My Personal Information -->
+
+    <h1>Welcome to My Personal Profile</h1>
+
+    <h2>Who Am I?</h2>
+
+    <p>
+        Hello! My name is
+        <b>Amira Mahmoud Abdulhameed Ali Sultan.</b>
+    </p>
+
+    <p>
+        I am a university student at
+        <strong>Sana'a University.</strong>
+    </p>
+
+    <p>
+        I am an ambitious person who loves learning,
+        discovering new things, and developing my skills.
+    </p>
+
+    <!-- My Major -->
+
+    <h2>My Major</h2>
+
+    <p>
+        My major is <b>Cybersecurity.</b>
+    </p>
+
+    <p>
+        Cybersecurity is the field of protecting computers,
+        networks, systems, and information from cyberattacks
+        and unauthorized access.
+    </p>
+
+    <p>
+        I am interested in learning how to protect
+        digital information and keep people safe online.
+    </p>
+
+    <!-- My Skills -->
+
+    <h2>My Skills</h2>
+
+    <p>
+        I have an interest in different technical
+        and personal skills, such as:
+    </p>
+
+    <ul>
+        <li>Programming Languages</li>
+        <li>Using Computers</li>
+        <li>Computer Networks</li>
+        <li>English Language Communication</li>
+        <li>Drawing and Creativity</li>
+        <li>Problem Solving</li>
+        <li>Learning New Technologies</li>
+    </ul>
+
+    <!-- My Hobbies -->
+
+    <h2>My Hobbies and Interests</h2>
+
+    <ol>
+        <li>Learning Programming</li>
+        <li>Exploring Technology</li>
+        <li>Drawing</li>
+        <li>Improving My English</li>
+        <li>Learning About Cybersecurity</li>
+    </ol>
+
+    <!-- About Cybersecurity -->
+
+    <h2>What Is Cybersecurity?</h2>
+
+    <p>
+        <strong>Cybersecurity</strong> is the practice
+        of protecting digital systems and data from
+        different types of cyber threats.
+    </p>
+
+    <p>
+        It helps protect personal information,
+        computers, networks, and online accounts.
+    </p>
+
+    <img src="cybersecurity.jpg"
+         alt="Cybersecurity and Digital Protection">
+
+    <p>
+        <small>
+            Cybersecurity helps create a safer digital world.
+        </small>
+    </p>
+
+    <!-- My Future Goal -->
+
+    <h2>My Future Goal</h2>
+
+    <p>
+        My dream is to become a
+        <b>professional Cybersecurity Specialist.</b>
+    </p>
+
+    <p>
+        I want to develop my knowledge and skills
+        to protect myself and other people from
+        cyber threats, attacks, and digital dangers.
+    </p>
+
+    <p>
+        I believe that learning and hard work
+        are the keys to achieving my dreams.
+    </p>
+
+    <p>
+        <i>My goal is to make the digital world safer.</i>
+    </p>
+
+    <!-- My Personal Qualities -->
+
+    <h2>My Personal Qualities</h2>
+
+    <p>
+        I am a curious, creative, and hardworking person.
+        I enjoy teamwork, learning new skills,
+        and facing new challenges.
+    </p>
+
+    <p>
+        I always try to improve myself
+        and build a better future.
+    </p>
+
+    <!-- Contact and GitHub -->
+
+    <h2>My GitHub Account</h2>
+
+    <p>
+        You can visit my GitHub profile through this link:
+    </p>
+
+    <a href="https://github.com/amiramahm51u7-beep"
+       target="_blank">
+       Visit My GitHub Profile
+    </a>
+
+    <!-- Footer -->
+
+    <h3>Thank You for Visiting My Profile!</h3>
+
+    <p>
+        Created by Amira Mahmoud Abdulhameed Ali Sultan.
+    </p>
+
+    <p>
+        <small>Cybersecurity Student - Sana'a University</small>
+    </p>
+
+</body>
+
+</html>
